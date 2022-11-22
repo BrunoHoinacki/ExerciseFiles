@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Program {
+public class Program1 {
     public static void main(String[] args) {
         String path = "c:\\Users\\bruno\\IdeaProjects\\ExerciseFiles\\in.txt";
 
